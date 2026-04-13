@@ -35,7 +35,7 @@ Sigue estos pasos para clonar el repositorio y empezar a practicar:
 3. Ejecuta el siguiente comando para clonar el repositorio:
 
     ```bash
-    git clone https://github.com/patobalboa/roadmap-python.git
+    git clone https://github.com/patobalboa/roadmap-algoritmos.git
     ```
 
 4. Abre la carpeta del repositorio clonado en tu editor de código favorito (Visual Studio Code, PyCharm, etc.).
